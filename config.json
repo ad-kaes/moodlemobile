@@ -1,7 +1,7 @@
 {
     "app_id": "com.goankh.app",
     "appname": "GoAnkh",
-    "desktopappname": "Moodle Desktop",
+    "desktopappname": "GoAnkh Bureau",
     "versioncode": 3720,
     "versionname": "3.7.2",
     "cache_update_frequency_usually": 420000,
