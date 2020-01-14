@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.goankh.app"
-        versionCode = "10010"
-        android-versionCode="10010"
-        version   = "1.0.1">
+        versionCode = "10011"
+        android-versionCode="10011"
+        version   = "1.0.11">
     <name>GoAnkh</name>
 
     <description>
