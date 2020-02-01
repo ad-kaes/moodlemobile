@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.goankh.app"
         versionCode = "10012"
-        android-versionCode= "10012"
+        android-versionCode = "10012"
         version   = "1.0.12">
     <name>GoAnkh</name>
 
